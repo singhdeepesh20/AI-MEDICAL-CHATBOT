@@ -19,7 +19,7 @@
 
 | Layer        | Technologies                          |
 |--------------|----------------------------------------|
-| 💬 LLM & Agents  | OpenAI / HuggingFace + LangChain agents |
+| 💬 LLM & Agents  | Groq / HuggingFace + LangChain agents |
 | 🔍 Embeddings   | HuggingFaceEmbeddings / FAISS         |
 | 📄 Retrieval    | RAG-based document chains             |
 | 🌐 Frontend     | Streamlit                            |
